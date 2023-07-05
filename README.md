@@ -41,7 +41,7 @@
   N/A
   
   ## Credits
-  Setting up the apiRoutes.js and the fsUtils.js files as separate from the server.js file courtesy of BCS tutor Faran Navazi. Faran also assisted in setting up the UUID generator.
+  Setting up the apiRoutes.js and the fsUtils.js files as separate from the server.js file courtesy of BCS tutor Faran Navazi. Faran also assisted in setting up the UUID generator. Other lines of code for the fsUtils.js file, apiRoutes.js file, and server.js file come from examples explored in the Bootcamp Spot Full Stack Flex unit covering Express JS.
 
   ## License
   
