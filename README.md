@@ -33,7 +33,7 @@
   ![alt text](./public/assets/screenshots/screencap2.PNG)
 
   ## Contribute
-  N/A
+  [GitHub Repo: (https://github.com/AdamJohnson92/Express-JS-Note-Taker)]
 
   ## Test
   N/A
