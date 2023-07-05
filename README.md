@@ -32,6 +32,8 @@
   ![alt text](./public/assets/screenshots/screencap1.PNG)
   ![alt text](./public/assets/screenshots/screencap2.PNG)
 
+  [Deployed Application: (https://murmuring-mountain-41668-f4407bc26ed0.herokuapp.com/)]
+
   ## Contribute
   [GitHub Repo: (https://github.com/AdamJohnson92/Express-JS-Note-Taker)]
 
