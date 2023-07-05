@@ -25,4 +25,4 @@ app.get('/notes', (req, res) => {
 
 
 app.listen(PORT, () => 
-console.log(`Note taking app is listening at http://localhost:${PORT}`))
+console.log(`Note taking app is listening at http://localhost:${port}`))
