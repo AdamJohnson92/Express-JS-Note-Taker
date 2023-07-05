@@ -1,7 +1,17 @@
 [
     {
-        "id": "83fb7d16-ba15-4f95-8078-3464253bda10",
-        "title": "Test Note",
-        "text": "This is a test note\n\n"
+        "id": "c5283473-ad32-42de-8097-e27bd91e0268",
+        "title": "Clean the garage",
+        "text": "Organize the shelves and get rid of unused tools.\n"
+    },
+    {
+        "id": "729faa56-8e54-4f5d-ab87-31a9db6c4da8",
+        "title": "Call doctor's office",
+        "text": "Set up a checkup for the week of 9/12\n"
+    },
+    {
+        "id": "73cae577-0ec7-41cc-9be4-f062ad56386d",
+        "title": "Pick up dry cleaning",
+        "text": "$4.50 for everything\n"
     }
 ]

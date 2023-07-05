@@ -29,6 +29,9 @@
   ## Usage
   Users initiate the application in their CLI by entering 'npm start' to start the server. Once the server is live, they can open the localhost link in their browser. From there, users can click the blue GET STARTED button to be taken to the notes section. In the left column are all notes that have previously been saved and in the right column is where a user can enter the title and text content of a  new note. Once the note is complete, users can save it to the server by clicking the 'save' icon. A user can pull up the text of a previously saved note by clicking on its title in the left column. While viewing a note, if they want to enter a new note, they can click the + icon to  be given the text input boxes again. Users can delete any note by clicking the red trashcan icon next to any saved note. 
   
+  ![alt text](./public/assets/screenshots/screencap1.PNG)
+  ![alt text](./public/assets/screenshots/screencap2.PNG)
+
   ## Contribute
   N/A
 
